@@ -28,6 +28,6 @@ I’m passionate about **web development**, especially **Node.js**, **Express**,
 
 ## 📫 Contact Me
 - 🌐 [My Portfolio](https://islammohamedahmed.github.io/My-Portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/islam-mohamed-5b5483395/)
 
 
