@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Islam!
 
 Welcome to my personal space on GitHub 🚀  
-I’m passionate about **web development**, especially **Node.js**, **Express**, and **ASP.NET**.
+I’m passionate about **web development**, especially **Node.js**, **Express**, and **Nest Js**.
 
 ---
 
@@ -9,6 +9,7 @@ I’m passionate about **web development**, especially **Node.js**, **Express**,
 - Fastify
 - PostgreSQL + Prisma
 - Building big real-world backend systems
+- Nest Js
 
 ---
 
