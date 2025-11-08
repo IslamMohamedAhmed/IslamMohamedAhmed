@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Islam!
 
-<!--
-**IslamMohamedAhmed/IslamMohamedAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal space on GitHub 🚀  
+I’m passionate about **web development**, especially **Node.js**, **Express**, and **ASP.NET**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m learning now
+- Fastify
+- PostgreSQL + Prisma
+- Building big real-world backend systems
+
+---
+
+## 💭 My Thoughts
+> "Keep building until something great happens."
+
+---
+
+## 🧰 My Favorite Tools
+- VS Code
+- Node.js
+- MongoDB
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+- 🌐 [My Portfolio](https://islammohamedahmed.github.io/My-Portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+
+
